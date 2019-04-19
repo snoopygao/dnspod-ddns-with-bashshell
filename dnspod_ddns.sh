@@ -6,6 +6,8 @@ API_ID=12345
 API_Token=abcdefghijklmnopq2333333
 domain=example.com
 host=home
+#顶级域名解析host=@
+#host=@
 CHECKURL="http://ip.03k.org"
 #OUT="pppoe"
 #CONF END
